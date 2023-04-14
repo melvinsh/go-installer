@@ -59,7 +59,7 @@ function what_platform() {
     platform="linux-$arch"
     ;;
   "Darwin")
-    platform="darwin-amd64"
+    platform="darwin-arm64"
     ;;
   esac
 }
